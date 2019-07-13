@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>HTML5 Geolocation</title>
+<script>
+    function showPosition(){
+        navigator.geolocation.getCurrentPosition(showMap);
+    }
+    
+    function showMap(position){
+        // Get location data
+        var latlong = position.coords.latitude + ", " + position.coords.longitude;
+        lat=position.coords.latitude;
+        long=position.coords.longitude;
+        
+        // Set Google map source url
+        
+        var mapLink = "http://maps.google.com/maps?q=" + latlong+ '&z=15&output=embed'; 
+        window.location.replace(mapLink);
+        // Create and insert Google map
+       //document.getElementById("embedMap").innerHTML ="http://www.google.com/maps/place/"+lat","+long;
+
+    }
+</script>
+</head>
+<body>
+    
+    <button type="button" onclick="showPosition();">Show My Position on Google Map</button>
+    <div id="embedMap">
+        <!--Google map will be embedded here-->
+    </div>
+</body>
+</html>

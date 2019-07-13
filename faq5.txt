@@ -1,0 +1,30 @@
+What is the basis of calculation of bill amount?#####Total bill payable mainly comprises of Energy Charges (units consumed X applicable rates), E. Tax
+(5% of Energy Charges), Fixed Charges (as per the rates applicable), Pension Trust Surcharge, Power
+Purchase Cost Adjustment Charge applicable on fixed and energy charges) any other charges being
+levied by DERC from time to time, like; Surcharge etc. and Govt. subsidy (if applicable) + Arrears (if
+any) + LPSC (if any) +- Adjustment (if any).#####How is slab calculated?#####Slab is calculated on the basis of difference between current reading date and previous reading
+date (both dates inclusive) divided by total number of days of that particular month.#####What are fixed charges?#####Fixed Charges refer to the amount chargeable for billing period based upon the Sanctioned
+Load and slab.
+Calculation is as under:
+For Domestic connections, above 5 KW fixed charges = Sanctioned Load x Tariff Rate x Slab
+For others Fixed Charges =Bill Load x Tariff Rate x Slab#####What is fuel price adjustment or purchase price adjustment?#####The price of the power purchased by Tata Power-DDL from generating stations varies from month
+to month. Tata Power-DDL has to make payment immediately and these charges are almost 70% of
+total cost of supply to be recovered from customers. Accordingly, the variation in power purchase
+price as compared to base price considered in last tariff schedule is decided by DERC on quarterly basis
+and is to be adjusted in bill.#####LPSC stands for?#####LPSC means Surcharge applicable due to non-payment of bill within the due date. It is
+charged/calculated on day to day basis on total payable bill amount (excluding LPSC element) as per
+the prescribed rates (presently 18% per annum).#####LPSC?#####LPSC means Surcharge applicable due to non-payment of bill within the due date. It is
+charged/calculated on day to day basis on total payable bill amount (excluding LPSC element) as per
+the prescribed rates (presently 18% per annum).#####What is provisional bill?#####Provisional bill is raised when, due to some reasons, the actual reading is not available.#####How to get billing related information through Short Message Service (SMS)?
+#####Customer can get billing details by sending following SMS to 56070:
+TPDDL BL <CA NUMBER> - for Last Bill
+TPDDL CBL <CA NUMBER> - for Current Bill.##### What is "Green customer"?#####Be a Proud “Green customer”
+Green Customer is a customer who is active in Tata Power-DDL’s drive towards Green Environment
+and have opted for Stop Paper Bill and Online Payment.
+If you wish to join us in our efforts to Save Planet by saving paper bills, please register your e-mail ID
+with us for getting e-bill by just writing us on customercare@tatapower-ddl.com or by calling us at our
+1. Utility Customer E- Services (UCES)
+ (Path - http://www.tatapowerddl.com/showcontent.aspx?this=362&f=Customer-Login).
+2. 24X7 Toll Free Sampark Kendra Helpline Number 19124
+3. Customer Care Centre
+ (Timings - 9:30 AM to 6:00 PM – Mon to Fri/ 9:30 AM to 1:00 PM – Sat)
